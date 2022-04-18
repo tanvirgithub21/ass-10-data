@@ -1,1 +1,23 @@
-[{"servicesName":"Tracking-Tighter","price":"236","img":"https://www.yourdentistryguide.com/wp-content/uploads/2017/11/implants-vs-min.jpg","details":"A dental implant is the artificial root of the tooth. During implantation, the implant is screwed into the jaw. It replaces the root of the missing natural tooth. When the implant is attached, an artificial tooth, called a dental crown, is screwed on it <br/> Loss of tooth implants allows us to restore the root of the tooth and perform prosthetics, without damaging the adjacent teeth. The prosthesis restores the 80% of the chewing function. This means that the patient can completely chew soft and hard food, but must avoid very solid foods, such as fried bread and nuts <br/> Implants hold an artificial crown or dental bridges in the same way that the roots hold the tooth in place. Dental implants help to recover lost teeth without damaging nearby teeth. Implants can restore an individual tooth or the entire toothless jaw <br/> Dental implantation procedure consists of the following main steps <br/> • Consultation, preparation of a treatment plan <br/> • Implantation, temporary prostheses <br/> • Control <br/> • Permanent crown prosthesis on implants"},{"servicesName":"Dental prosthetics","price":"499","img":"https://www.hashirintl.com/wp-content/uploads/2021/04/zahnprothetik-kroatien3.jpg","details":"When a person suffers severe hard tooth tissue loss, has poor teeth aesthetics, tooth wear, dental prostheses (bridges, crowns, veneers, etc.) are used to restore the damaged teeth. In a case of complete tooth loss, the prosthesis is attached to a dental implant. Dental prosthetics is crucial for the recovery of functionality and aesthetics of teeth."},{"servicesName":"Cosmetic dentistry","price":"999","img":"https://drmikeregan.com/tpn/c/C357/img/IMG-Featured-Cosmetic.jpg","details":"Cosmetic dentistry restores tooth aesthetics by using filling materials. The filling is usually applied to the front surface of the tooth. During this procedure, it is possible to change the color, shape, and position of the tooth. Before filling, the teeth are slightly polished or tooth enamel is roughened, depending on the damage and position of the tooth. After some polishing, crooked and protruding teeth get visually straightened."}]
+[
+  {
+    "servicesName": "Tracking-Tighter",
+    "id": "1",
+    "price": "236",
+    "img": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/implants-vs-min.jpg",
+    "details": "A dental implant is the artificial root of the tooth. During implantation, the implant is screwed into the jaw. It replaces the root of the missing natural tooth. When the implant is attached, an artificial tooth, called a dental crown, is screwed on it Loss of tooth implants allows us to restore the root of the tooth and perform prosthetics, without damaging the adjacent teeth. The prosthesis restores the 80% of the chewing function. This means that the patient can completely chew soft and hard food, but must avoid very solid foods, such as fried bread and nuts Implants hold an artificial crown or dental bridges in the same way that the roots hold the tooth in place. Dental implants help to recover lost teeth without damaging nearby teeth. Implants can restore an individual tooth or the entire toothless jaw Dental implantation procedure consists of the following main steps • Consultation, preparation of a treatment plan • Implantation, temporary prostheses • Control • Permanent crown prosthesis on implants"
+  },
+  {
+    "servicesName": "Dental prosthetics",
+    "id": "2",
+    "price": "499",
+    "img": "https://www.hashirintl.com/wp-content/uploads/2021/04/zahnprothetik-kroatien3.jpg",
+    "details": "When a person suffers severe hard tooth tissue loss, has poor teeth aesthetics, tooth wear, dental prostheses (bridges, crowns, veneers, etc.) are used to restore the damaged teeth. In a case of complete tooth loss, the prosthesis is attached to a dental implant. Dental prosthetics is crucial for the recovery of functionality and aesthetics of teeth."
+  },
+  {
+    "servicesName": "Cosmetic dentistry",
+    "id": "3",
+    "price": "999",
+    "img": "https://drmikeregan.com/tpn/c/C357/img/IMG-Featured-Cosmetic.jpg",
+    "details": "Cosmetic dentistry restores tooth aesthetics by using filling materials. The filling is usually applied to the front surface of the tooth. During this procedure, it is possible to change the color, shape, and position of the tooth. Before filling, the teeth are slightly polished or tooth enamel is roughened, depending on the damage and position of the tooth. After some polishing, crooked and protruding teeth get visually straightened."
+  }
+]
